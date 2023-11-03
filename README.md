@@ -1,1 +1,2 @@
-# MAC0447-2023-AnaliseRecdeFormas
+# MAC0447 - Análise e Reconhecimento de Formas
+## EP
